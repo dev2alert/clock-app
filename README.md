@@ -1,4 +1,7 @@
 <h1 align="center">Clock App</h1>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/68344264/186125790-d682c1ba-32aa-41bf-af8d-2b0b5547c831.png" width="250" />
+</p>
 <h2>Installing</h2>
 <p>Preliminary requirements:</p>
 <ul>
